@@ -1,2 +1,1 @@
-# automatic-octo-guide
-Medição de IMC
+Olá, apenas compartilhando meus apredizados.
